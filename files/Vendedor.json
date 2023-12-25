@@ -1,0 +1,217 @@
+{
+    "Controlador.Listas.DynamicList": {
+        "header": {
+            "info": {
+                "@class": "Modelo.Vendedor",
+                "nombre": " Abel",
+                "apellido": " Mora",
+                "cedula": " 1105532335",
+                "numero": " 0982991517",
+                "id": 1,
+                "edad": " 19"
+            },
+            "next": {
+                "info": {
+                    "@class": "Modelo.Vendedor",
+                    "nombre": " Darwin",
+                    "apellido": " Granda",
+                    "cedula": " 110284945",
+                    "numero": " 123124324343",
+                    "id": 2,
+                    "edad": " 30"
+                },
+                "next": {
+                    "info": {
+                        "@class": "Modelo.Vendedor",
+                        "nombre": " Elias",
+                        "apellido": " Poma",
+                        "cedula": " 123124324324",
+                        "numero": " 324324343",
+                        "id": 3,
+                        "edad": " 21"
+                    },
+                    "next": {
+                        "info": {
+                            "@class": "Modelo.Vendedor",
+                            "nombre": " Juan",
+                            "apellido": " Garcia",
+                            "cedula": " 123456789",
+                            "numero": " 8091234567",
+                            "id": 4,
+                            "edad": " 35"
+                        },
+                        "next": {
+                            "info": {
+                                "@class": "Modelo.Vendedor",
+                                "nombre": " Maria",
+                                "apellido": " Rodriguez",
+                                "cedula": " 134567890",
+                                "numero": "  8292345678",
+                                "id": 5,
+                                "edad": 28
+                            },
+                            "next": {
+                                "info": {
+                                    "@class": "Modelo.Vendedor",
+                                    "nombre": " Carlos",
+                                    "apellido": " Perez",
+                                    "cedula": " 145678901",
+                                    "numero": " 8493456789",
+                                    "id": 6,
+                                    "edad": " 40"
+                                },
+                                "next": {
+                                    "info": {
+                                        "@class": "Modelo.Vendedor",
+                                        "nombre": " Ana",
+                                        "apellido": " Gomez",
+                                        "cedula": " 00167890123",
+                                        "numero": " 8295678901",
+                                        "id": 7,
+                                        "edad": " 37"
+                                    },
+                                    "next": {
+                                        "info": {
+                                            "@class": "Modelo.Vendedor",
+                                            "nombre": " Pedro",
+                                            "apellido": " Hernandez",
+                                            "cedula": " 167890123",
+                                            "numero": " 8295678901",
+                                            "id": 8,
+                                            "edad": " 37"
+                                        },
+                                        "next": {
+                                            "info": {
+                                                "@class": "Modelo.Vendedor",
+                                                "nombre": " Alexander",
+                                                "apellido": " Sanchez",
+                                                "cedula": 11089567586,
+                                                "numero": " 089093475",
+                                                "id": 9,
+                                                "edad": " 20"
+                                            },
+                                            "next": {
+                                                "info": {
+                                                    "@class": "Modelo.Vendedor",
+                                                    "nombre": " Darwin",
+                                                    "apellido": " Sarango",
+                                                    "cedula": " 1104556897",
+                                                    "numero": " 0897587455",
+                                                    "id": 10,
+                                                    "edad": " 19"
+                                                },
+                                                "next": {
+                                                    "info": {
+                                                        "@class": "Modelo.Vendedor",
+                                                        "nombre": " Luis",
+                                                        "apellido": " Lopez",
+                                                        "cedula": "1345678990 ",
+                                                        "numero": " 0839473874",
+                                                        "id": 11,
+                                                        "edad": " 29"
+                                                    },
+                                                    "next": {
+                                                        "info": {
+                                                            "@class": "Modelo.Vendedor",
+                                                            "nombre": " Jose",
+                                                            "apellido": " Martinez",
+                                                            "cedula": 12195849,
+                                                            "numero": " 08439743874",
+                                                            "id": 12,
+                                                            "edad": " 41"
+                                                        },
+                                                        "next": {
+                                                            "info": {
+                                                                "@class": "Modelo.Vendedor",
+                                                                "nombre": " Maria",
+                                                                "apellido": " Sanchez",
+                                                                "cedula": " 123940394",
+                                                                "numero": "0849374875 ",
+                                                                "id": 13,
+                                                                "edad": " 47"
+                                                            },
+                                                            "next": {
+                                                                "info": {
+                                                                    "@class": "Modelo.Vendedor",
+                                                                    "nombre": " Carlos",
+                                                                    "apellido": " Perez",
+                                                                    "cedula": " 118948498",
+                                                                    "numero": " 084937875",
+                                                                    "id": 14,
+                                                                    "edad": " 47"
+                                                                },
+                                                                "next": {
+                                                                    "info": {
+                                                                        "@class": "Modelo.Vendedor",
+                                                                        "nombre": " Steven",
+                                                                        "apellido": " Luna",
+                                                                        "cedula": " 11580949580",
+                                                                        "numero": " 0849374875",
+                                                                        "id": 15,
+                                                                        "edad": " 20"
+                                                                    },
+                                                                    "next": {
+                                                                        "info": {
+                                                                            "@class": "Modelo.Vendedor",
+                                                                            "nombre": " Pablo",
+                                                                            "apellido": " Escobar",
+                                                                            "cedula": " 119848595",
+                                                                            "numero": " 08439754875",
+                                                                            "id": 16,
+                                                                            "edad": " 23"
+                                                                        },
+                                                                        "next": {
+                                                                            "info": {
+                                                                                "@class": "Modelo.Vendedor",
+                                                                                "nombre": " Celeste",
+                                                                                "apellido": " Bustamente",
+                                                                                "cedula": " 11984905789",
+                                                                                "numero": " 08549758475",
+                                                                                "id": 17,
+                                                                                "edad": " 19"
+                                                                            },
+                                                                            "next": {
+                                                                                "info": {
+                                                                                    "@class": "Modelo.Vendedor",
+                                                                                    "nombre": " Bernardita",
+                                                                                    "apellido": " Grijalva",
+                                                                                    "cedula": " 1100436110",
+                                                                                    "numero": " 08495787867",
+                                                                                    "id": 18,
+                                                                                    "edad": " 70"
+                                                                                },
+                                                                                "next": {
+                                                                                    "info": {
+                                                                                        "@class": "Modelo.Vendedor",
+                                                                                        "nombre": " Laura",
+                                                                                        "apellido": " Lopez",
+                                                                                        "cedula": " 119498595",
+                                                                                        "numero": " 083974875875",
+                                                                                        "id": 19,
+                                                                                        "edad": " 40"
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/header\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next"
+        },
+        "length": 19
+    }
+}

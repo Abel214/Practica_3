@@ -1,0 +1,328 @@
+{
+    "Controlador.Listas.DynamicList": {
+        "header": {
+            "info": {
+                "@class": "Modelo.Tipos",
+                "Id_casa": {
+                    "id": 1,
+                    "nombre_casa": "Casa unifamiliar",
+                    "descripcion": "Vivienda independiente"
+                },
+                "estado_pago": "Pagado",
+                "direccion": " Zoologico",
+                "estado_casa": "Hipotecada",
+                "Id": 1,
+                "dimension": "Largo: 1345, Ancho: 1234",
+                "vendedor": " Granda"
+            },
+            "next": {
+                "info": {
+                    "@class": "Modelo.Tipos",
+                    "Id_casa": {
+                        "id": 3,
+                        "nombre_casa": "Doplex",
+                        "descripcion": "Dos viviendas separadas"
+                    },
+                    "estado_pago": "En Proceso",
+                    "direccion": " Pitas",
+                    "estado_casa": "Endeuda",
+                    "Id": 2,
+                    "dimension": "Largo: 4556, Ancho: 789",
+                    "vendedor": " Mora"
+                },
+                "next": {
+                    "info": {
+                        "@class": "Modelo.Tipos",
+                        "Id_casa": {
+                            "id": 5,
+                            "nombre_casa": "Casa campo",
+                            "descripcion": "Casa ubicada zona rural"
+                        },
+                        "estado_pago": "En Proceso",
+                        "direccion": " Tierras Coloradas",
+                        "estado_casa": "Endeuda",
+                        "Id": 3,
+                        "dimension": "Largo: 4567, Ancho: 890",
+                        "vendedor": " Poma"
+                    },
+                    "next": {
+                        "info": {
+                            "@class": "Modelo.Tipos",
+                            "Id_casa": {
+                                "id": 1,
+                                "nombre_casa": "Casa unifamiliar",
+                                "descripcion": "Vivienda independiente"
+                            },
+                            "estado_pago": "En Proceso",
+                            "direccion": " Penas",
+                            "estado_casa": "Endeuda",
+                            "Id": 4,
+                            "dimension": "Largo: 12345, Ancho: 678",
+                            "vendedor": " Rodriguez"
+                        },
+                        "next": {
+                            "info": {
+                                "@class": "Modelo.Tipos",
+                                "Id_casa": {
+                                    "id": 5,
+                                    "nombre_casa": "Casa campo",
+                                    "descripcion": "Casa ubicada zona rural"
+                                },
+                                "estado_pago": "En Proceso",
+                                "direccion": " Banda",
+                                "estado_casa": "Libre",
+                                "Id": 5,
+                                "dimension": "Largo: 4567, Ancho: 890",
+                                "vendedor": " Bustamente"
+                            },
+                            "next": {
+                                "info": {
+                                    "@class": "Modelo.Tipos",
+                                    "Id_casa": {
+                                        "id": 2,
+                                        "nombre_casa": "Casa adosada",
+                                        "descripcion": "Comparten paredes laterales"
+                                    },
+                                    "estado_pago": "En Proceso",
+                                    "direccion": " El Cisne",
+                                    "estado_casa": "Hipotecada",
+                                    "Id": 6,
+                                    "dimension": "Largo: 1234, Ancho: 567",
+                                    "vendedor": " Perez"
+                                },
+                                "next": {
+                                    "info": {
+                                        "@class": "Modelo.Tipos",
+                                        "Id_casa": {
+                                            "id": 3,
+                                            "nombre_casa": "Doplex",
+                                            "descripcion": "Dos viviendas separadas"
+                                        },
+                                        "estado_pago": "En Proceso",
+                                        "direccion": " Coca cola",
+                                        "estado_casa": "Endeuda",
+                                        "Id": 7,
+                                        "dimension": "Largo: 456, Ancho: 789",
+                                        "vendedor": " Lopez"
+                                    },
+                                    "next": {
+                                        "info": {
+                                            "@class": "Modelo.Tipos",
+                                            "Id_casa": {
+                                                "id": 5,
+                                                "nombre_casa": "Casa campo",
+                                                "descripcion": "Casa ubicada zona rural"
+                                            },
+                                            "estado_pago": "Cancelado",
+                                            "direccion": " Unl",
+                                            "estado_casa": "Endeuda",
+                                            "Id": 8,
+                                            "dimension": "Largo: 45, Ancho: 67",
+                                            "vendedor": " Hernandez"
+                                        },
+                                        "next": {
+                                            "info": {
+                                                "@class": "Modelo.Tipos",
+                                                "Id_casa": {
+                                                    "id": 4,
+                                                    "nombre_casa": "Triplex",
+                                                    "descripcion": "Tres viviendas separadas"
+                                                },
+                                                "estado_pago": "Pagado",
+                                                "direccion": " Utpl",
+                                                "estado_casa": "Endeuda",
+                                                "Id": 9,
+                                                "dimension": "Largo: 3456, Ancho: 789",
+                                                "vendedor": " Escobar"
+                                            },
+                                            "next": {
+                                                "info": {
+                                                    "@class": "Modelo.Tipos",
+                                                    "Id_casa": {
+                                                        "id": 3,
+                                                        "nombre_casa": "Doplex",
+                                                        "descripcion": "Dos viviendas separadas"
+                                                    },
+                                                    "estado_pago": "En Proceso",
+                                                    "direccion": " Supermaxi",
+                                                    "estado_casa": "Endeuda",
+                                                    "Id": 10,
+                                                    "dimension": "Largo: 123, Ancho: 456",
+                                                    "vendedor": " Sanchez"
+                                                },
+                                                "next": {
+                                                    "info": {
+                                                        "@class": "Modelo.Tipos",
+                                                        "Id_casa": {
+                                                            "id": 1,
+                                                            "nombre_casa": "Casa unifamiliar",
+                                                            "descripcion": "Vivienda independiente"
+                                                        },
+                                                        "estado_pago": "Cancelado",
+                                                        "direccion": " Miraflores",
+                                                        "estado_casa": "Endeuda",
+                                                        "Id": 11,
+                                                        "dimension": "Largo: 678, Ancho: 9023",
+                                                        "vendedor": " Sarango"
+                                                    },
+                                                    "next": {
+                                                        "info": {
+                                                            "@class": "Modelo.Tipos",
+                                                            "Id_casa": {
+                                                                "id": 5,
+                                                                "nombre_casa": "Casa campo",
+                                                                "descripcion": "Casa ubicada zona rural"
+                                                            },
+                                                            "estado_pago": "Cancelado",
+                                                            "direccion": " Castilla",
+                                                            "estado_casa": "Libre",
+                                                            "Id": 12,
+                                                            "dimension": "Largo: 13, Ancho: 456",
+                                                            "vendedor": " Granda"
+                                                        },
+                                                        "next": {
+                                                            "info": {
+                                                                "@class": "Modelo.Tipos",
+                                                                "Id_casa": {
+                                                                    "id": 5,
+                                                                    "nombre_casa": "Casa campo",
+                                                                    "descripcion": "Casa ubicada zona rural"
+                                                                },
+                                                                "estado_pago": "En Proceso",
+                                                                "direccion": " Mirador",
+                                                                "estado_casa": "Libre",
+                                                                "Id": 13,
+                                                                "dimension": "Largo: 567, Ancho: 8902",
+                                                                "vendedor": " Luna"
+                                                            },
+                                                            "next": {
+                                                                "info": {
+                                                                    "@class": "Modelo.Tipos",
+                                                                    "Id_casa": {
+                                                                        "id": 3,
+                                                                        "nombre_casa": "Doplex",
+                                                                        "descripcion": "Dos viviendas separadas"
+                                                                    },
+                                                                    "estado_pago": "Pagado",
+                                                                    "direccion": " Motupe",
+                                                                    "estado_casa": "Endeuda",
+                                                                    "Id": 14,
+                                                                    "dimension": "Largo: 567, Ancho: 890",
+                                                                    "vendedor": " Garcia"
+                                                                },
+                                                                "next": {
+                                                                    "info": {
+                                                                        "@class": "Modelo.Tipos",
+                                                                        "Id_casa": {
+                                                                            "id": 2,
+                                                                            "nombre_casa": "Casa adosada",
+                                                                            "descripcion": "Comparten paredes laterales"
+                                                                        },
+                                                                        "estado_pago": "En Proceso",
+                                                                        "direccion": " Termial",
+                                                                        "estado_casa": "Hipotecada",
+                                                                        "Id": 15,
+                                                                        "dimension": "Largo: 123, Ancho: 456",
+                                                                        "vendedor": " Grijalva"
+                                                                    },
+                                                                    "next": {
+                                                                        "info": {
+                                                                            "@class": "Modelo.Tipos",
+                                                                            "Id_casa": {
+                                                                                "id": 4,
+                                                                                "nombre_casa": "Triplex",
+                                                                                "descripcion": "Tres viviendas separadas"
+                                                                            },
+                                                                            "estado_pago": "Cancelado",
+                                                                            "direccion": " Pedro De Leiva",
+                                                                            "estado_casa": "Libre",
+                                                                            "Id": 16,
+                                                                            "dimension": "Largo: 789, Ancho: 908",
+                                                                            "vendedor": " Martinez"
+                                                                        },
+                                                                        "next": {
+                                                                            "info": {
+                                                                                "@class": "Modelo.Tipos",
+                                                                                "Id_casa": {
+                                                                                    "id": 5,
+                                                                                    "nombre_casa": "Casa campo",
+                                                                                    "descripcion": "Casa ubicada zona rural"
+                                                                                },
+                                                                                "estado_pago": "En Proceso",
+                                                                                "direccion": " Bomba quemada",
+                                                                                "estado_casa": "Libre",
+                                                                                "Id": 17,
+                                                                                "dimension": "Largo: 456, Ancho: 7890",
+                                                                                "vendedor": " Poma"
+                                                                            },
+                                                                            "next": {
+                                                                                "info": {
+                                                                                    "@class": "Modelo.Tipos",
+                                                                                    "Id_casa": {
+                                                                                        "id": 2,
+                                                                                        "nombre_casa": "Casa adosada",
+                                                                                        "descripcion": "Comparten paredes laterales"
+                                                                                    },
+                                                                                    "estado_pago": "Cancelado",
+                                                                                    "direccion": " Estadio",
+                                                                                    "estado_casa": "Endeuda",
+                                                                                    "Id": 18,
+                                                                                    "dimension": "Largo: 123, Ancho: 456",
+                                                                                    "vendedor": " Rodriguez"
+                                                                                },
+                                                                                "next": {
+                                                                                    "info": {
+                                                                                        "@class": "Modelo.Tipos",
+                                                                                        "Id_casa": {
+                                                                                            "id": 6,
+                                                                                            "nombre_casa": "Casa playa",
+                                                                                            "descripcion": "Casa ubicada en la costa"
+                                                                                        },
+                                                                                        "estado_pago": "En Proceso",
+                                                                                        "direccion": " Machala",
+                                                                                        "estado_casa": "Libre",
+                                                                                        "Id": 19,
+                                                                                        "dimension": "Largo: 234, Ancho: 567",
+                                                                                        "vendedor": " Gomez"
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "info": {
+                                                                                            "@class": "Modelo.Tipos",
+                                                                                            "Id_casa": {
+                                                                                                "id": 3,
+                                                                                                "nombre_casa": "Doplex",
+                                                                                                "descripcion": "Dos viviendas separadas"
+                                                                                            },
+                                                                                            "estado_pago": "Cancelado",
+                                                                                            "direccion": " Landagui",
+                                                                                            "estado_casa": "Endeuda",
+                                                                                            "Id": 20,
+                                                                                            "dimension": "Largo: 45456, Ancho: 787",
+                                                                                            "vendedor": " Lopez"
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "..\/header\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next\/next"
+        },
+        "length": 20
+    }
+}
